@@ -1,0 +1,12 @@
+I am the first line ...
+First item of the list of lines
+Second  no new line Third
+Apple.
+I like apples.
+Banana
+Hurray, it is Friday.
+Apple.
+I like apples.
+Banana
+Hurray, it is Friday.
+I am appended to the end of the file ...
